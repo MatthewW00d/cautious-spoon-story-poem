@@ -1,0 +1,8 @@
+Github helps us collaborate
+Our version control we can automate
+
+It also acts as a showcase 
+for a clean and well documented codebase
+
+If I'm making significant changes to my code
+I'll create a new branch to take the load
